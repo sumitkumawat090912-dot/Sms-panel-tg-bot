@@ -7,8 +7,8 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 from datetime import datetime
 
 # Bot configuration
-BOT_TOKEN = "8042234265:AAFG0x3pnykw-r4brv6X8Yt7Wco_dbcWqk4"
-ADMIN_ID = 7574915654
+BOT_TOKEN = "8409322677:AAGvra5KQYXOH5ZNt9kSx7x42Lu5fjeZYtg"
+ADMIN_ID = 8076046125
 
 # Your channels with links (sirf last wale channel ka check hoga)
 CHANNELS = [
